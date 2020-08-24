@@ -1,21 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+このプロジェクトは[Create React App](https://github.com/facebook/create-react-app).でブートストラップされました
 
-## Available Scripts
+## 利用可能なスクリプト
 
-In the project directory, you can run:
+プロジェクトディレクトリでは、次のコマンドを実行できます:
 
 ### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+アプリを開発モードで実行します。<br />
+[http://localhost:3000](http://localhost:3000)を開いて、ブラウザで表示します。
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+編集するとページがリロードされます。<br />
+また、コンソールにlintエラーが表示されます。
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+対話監視モードでテストランナーを起動します。<br />
+詳細については、[テストの実行](https://facebook.github.io/create-react-app/docs/running-tests)に関するセクションをご覧ください。
 
 ### `npm run build`
 
