@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
           Hallo World.
+          [merge_test]
         </h1>
         <p>
           Edit <code>src/App.js</code> and save to reload.
